@@ -30,8 +30,7 @@
             echo "$z </br>";
         }
         $z++;
-        } while ($z <= 10);
-
+        } while ($z <= 10);  
     ?>   
 </body>
 
